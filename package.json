@@ -1,0 +1,22 @@
+{
+  "name": "moillz-js30",
+  "version": "1.0.0",
+  "description": "开源项目JavaScript30的每一天实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moillz/Moillz-JS30.git"
+  },
+  "author": "Mudai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moillz/Moillz-JS30/issues"
+  },
+  "homepage": "https://github.com/Moillz/Moillz-JS30#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
